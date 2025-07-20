@@ -26,15 +26,6 @@ A full-stack Zoom-like video calling web application built using **React**, **No
 
 ---
 
-## Screenshots
-
-> Include screenshots of:
-- Home / Landing Page  
-- Video Call Room  
-- Joining Screen  
-- Responsive Layouts (Mobile/Desktop)
-
----
 
 ##  How to Run Locally
 
